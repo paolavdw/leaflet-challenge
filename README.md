@@ -1,7 +1,36 @@
-# leaflet-challenge
-Module 15 Challenge: leaflet
+# Module 15 Challenge: Leaflet
 
-Background
-The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
+## Description
+Interactive Map that visualizes USGS's earthquake data in the past day
 
-The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
+![app_image](map.png)
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
+- [Features](#features)
+
+- [Contact](#contact)
+
+## Installation
+HTML, JS D3, CSS, & Leaftlet
+
+## Usage
+As a website
+
+## Credits
+Paola VdW. The Dataset was created by the United States Geological Survey
+
+
+
+## Features
+TitleLayer Map with Markers with size corresponding to earthquake magnitude. A legend is included showing the depth of the earthquakes and their corresponding color 
+
+
+
+## Contact
+If there are any questions or concerns, I can be reached at:
+##### [github: paolavdw](https://github.com/paolavdw)
+##### [email: paola.guigou@gmail.com](mailto:paola.guigou@gmail.com)
